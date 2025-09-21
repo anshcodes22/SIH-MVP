@@ -1,0 +1,21 @@
+{
+  "name": "NATPAC Travel Survey App",
+  "short_name": "Travel Survey",
+  "description": "Help improve transportation planning by recording your daily trips",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563EB",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["travel", "transportation", "productivity"],
+  "lang": "en",
+  "dir": "ltr"
+}
